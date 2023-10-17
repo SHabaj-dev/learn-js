@@ -25,4 +25,5 @@ const max = 20
 
 
 //Remember this method
+
 console.log(Math.floor(Math.random() * (max - min + 1)) + min)
