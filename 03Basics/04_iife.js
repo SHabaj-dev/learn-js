@@ -12,6 +12,6 @@
 //Unnamed and parameterised IIFE
 
 ((name) => {
-    console.log(`${name} Db is connecte`)
+    console.log(`${name} Db is connected`)
 })("shabaj")
 
